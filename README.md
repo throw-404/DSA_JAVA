@@ -14,6 +14,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/throw-404/DSA_JAVA/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/throw-404/DSA_JAVA/tree/master/0012-integer-to-roman) |
 ## Array
 |  |
