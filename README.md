@@ -33,4 +33,12 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/throw-404/DSA_JAVA/tree/master/0229-majority-element-ii) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/throw-404/DSA_JAVA/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/throw-404/DSA_JAVA/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
