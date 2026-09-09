@@ -17,6 +17,7 @@
 | [0008-string-to-integer-atoi](https://github.com/throw-404/DSA_JAVA/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/throw-404/DSA_JAVA/tree/master/0012-integer-to-roman) |
 | [0065-valid-number](https://github.com/throw-404/DSA_JAVA/tree/master/0065-valid-number) |
+| [0392-is-subsequence](https://github.com/throw-404/DSA_JAVA/tree/master/0392-is-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -42,4 +43,9 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/throw-404/DSA_JAVA/tree/master/0061-rotate-list) |
+| [0392-is-subsequence](https://github.com/throw-404/DSA_JAVA/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/throw-404/DSA_JAVA/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
