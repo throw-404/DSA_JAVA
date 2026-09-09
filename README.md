@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/throw-404/DSA_JAVA/tree/master/0229-majority-element-ii) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/throw-404/DSA_JAVA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Sorting
 |  |
 | ------- |
