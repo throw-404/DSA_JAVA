@@ -20,6 +20,7 @@
 | [0065-valid-number](https://github.com/throw-404/DSA_JAVA/tree/master/0065-valid-number) |
 | [0392-is-subsequence](https://github.com/throw-404/DSA_JAVA/tree/master/0392-is-subsequence) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/throw-404/DSA_JAVA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3110-score-of-a-string](https://github.com/throw-404/DSA_JAVA/tree/master/3110-score-of-a-string) |
 ## Array
 |  |
 | ------- |
