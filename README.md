@@ -20,12 +20,14 @@
 | [0065-valid-number](https://github.com/throw-404/DSA_JAVA/tree/master/0065-valid-number) |
 | [0392-is-subsequence](https://github.com/throw-404/DSA_JAVA/tree/master/0392-is-subsequence) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/throw-404/DSA_JAVA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2678-number-of-senior-citizens](https://github.com/throw-404/DSA_JAVA/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/throw-404/DSA_JAVA/tree/master/3110-score-of-a-string) |
 ## Array
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/throw-404/DSA_JAVA/tree/master/0229-majority-element-ii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/throw-404/DSA_JAVA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [2678-number-of-senior-citizens](https://github.com/throw-404/DSA_JAVA/tree/master/2678-number-of-senior-citizens) |
 ## Sorting
 |  |
 | ------- |
