@@ -42,10 +42,12 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/throw-404/DSA_JAVA/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/throw-404/DSA_JAVA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/throw-404/DSA_JAVA/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/throw-404/DSA_JAVA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0392-is-subsequence](https://github.com/throw-404/DSA_JAVA/tree/master/0392-is-subsequence) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/throw-404/DSA_JAVA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Dynamic Programming
