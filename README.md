@@ -25,12 +25,14 @@
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/throw-404/DSA_JAVA/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/throw-404/DSA_JAVA/tree/master/0229-majority-element-ii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/throw-404/DSA_JAVA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2678-number-of-senior-citizens](https://github.com/throw-404/DSA_JAVA/tree/master/2678-number-of-senior-citizens) |
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/throw-404/DSA_JAVA/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/throw-404/DSA_JAVA/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
@@ -50,6 +52,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/throw-404/DSA_JAVA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/throw-404/DSA_JAVA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/throw-404/DSA_JAVA/tree/master/0088-merge-sorted-array) |
 | [0392-is-subsequence](https://github.com/throw-404/DSA_JAVA/tree/master/0392-is-subsequence) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/throw-404/DSA_JAVA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Dynamic Programming
