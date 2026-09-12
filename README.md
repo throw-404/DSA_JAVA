@@ -29,6 +29,7 @@
 | ------- |
 | [0078-subsets](https://github.com/throw-404/DSA_JAVA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/throw-404/DSA_JAVA/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/throw-404/DSA_JAVA/tree/master/0090-subsets-ii) |
 | [0229-majority-element-ii](https://github.com/throw-404/DSA_JAVA/tree/master/0229-majority-element-ii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/throw-404/DSA_JAVA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2678-number-of-senior-citizens](https://github.com/throw-404/DSA_JAVA/tree/master/2678-number-of-senior-citizens) |
@@ -74,8 +75,10 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/throw-404/DSA_JAVA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/throw-404/DSA_JAVA/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/throw-404/DSA_JAVA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/throw-404/DSA_JAVA/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
