@@ -27,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/throw-404/DSA_JAVA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/throw-404/DSA_JAVA/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/throw-404/DSA_JAVA/tree/master/0229-majority-element-ii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/throw-404/DSA_JAVA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -69,4 +70,12 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/throw-404/DSA_JAVA/tree/master/0043-multiply-strings) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/throw-404/DSA_JAVA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/throw-404/DSA_JAVA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
