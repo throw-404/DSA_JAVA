@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/throw-404/DSA_JAVA/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/throw-404/DSA_JAVA/tree/master/0036-valid-sudoku) |
 | [0229-majority-element-ii](https://github.com/throw-404/DSA_JAVA/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
@@ -27,6 +28,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/throw-404/DSA_JAVA/tree/master/0036-valid-sudoku) |
 | [0078-subsets](https://github.com/throw-404/DSA_JAVA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/throw-404/DSA_JAVA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/throw-404/DSA_JAVA/tree/master/0090-subsets-ii) |
@@ -81,4 +83,8 @@
 | ------- |
 | [0078-subsets](https://github.com/throw-404/DSA_JAVA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/throw-404/DSA_JAVA/tree/master/0090-subsets-ii) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/throw-404/DSA_JAVA/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
