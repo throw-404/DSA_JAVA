@@ -1,10 +1,31 @@
-<h2><a href="https://leetcode.com/problems/two-sum">1. Two Sum</a></h2><h3>Easy</h3><hr><p>You are given an array of integers <code>nums</code>&nbsp;and an integer <code>target</code>, return <em>indices of the two numbers such that they add up to <code>target</code></em>.</p>
+<h2><a href="https://leetcode.com/problems/two-sum">1. Two Sum</a></h2>
+<h3>Easy</h3>
+<hr>
+
+<p>You are given an array of integers <code>nums</code>&nbsp;and an integer <code>target</code>, return <em>indices of the two numbers such that they add up to <code>target</code></em>.</p>
 
 <p>You may assume that each input would have <strong><em>exactly</em> one solution</strong>, and you may not use the <em>same</em> element twice.</p>
 
 <p>You can return the answer in any order.</p>
 
+<h3>Intuition</h3>
+
+<p>We can use a <strong>HashMap</strong> to store the numbers we have already seen along with their indices.</p>
+
+<p>For each number, calculate the number needed to reach the target:</p>
+
+<pre><code>needed = target - nums[i]</code></pre>
+
+<p>If <code>needed</code> already exists in the HashMap, we have found the two numbers whose sum equals the target.</p>
+
+<p>Otherwise, store the current number and its index in the HashMap.</p>
+
+<p>This allows us to solve the problem in <strong>O(n)</strong> time instead of using nested loops with <strong>O(n²)</strong> time.</p>
+
+<p>However, this approach requires <strong>O(n)</strong> extra space because the HashMap can store up to <code>n</code> elements.</p>
+
 <p>&nbsp;</p>
+
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
@@ -28,6 +49,7 @@
 </pre>
 
 <p>&nbsp;</p>
+
 <p><strong>Constraints:</strong></p>
 
 <ul>
@@ -38,4 +60,5 @@
 </ul>
 
 <p>&nbsp;</p>
-<strong>Follow-up:&nbsp;</strong>Can you come up with an algorithm that is less than <code>O(n<sup>2</sup>)</code><font face="monospace">&nbsp;</font>time complexity?
+
+<strong>Follow-up:&nbsp;</strong>Can you come up with an algorithm that is less than <code>O(n<sup>2</sup>)</code><font face="monospace">&nbsp;</font> time complexity?
