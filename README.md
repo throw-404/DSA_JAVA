@@ -36,6 +36,7 @@
 | [0001-two-sum](https://github.com/throw-404/DSA_JAVA/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/throw-404/DSA_JAVA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/throw-404/DSA_JAVA/tree/master/0039-combination-sum) |
+| [0053-maximum-subarray](https://github.com/throw-404/DSA_JAVA/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/throw-404/DSA_JAVA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/throw-404/DSA_JAVA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/throw-404/DSA_JAVA/tree/master/0090-subsets-ii) |
@@ -74,6 +75,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/throw-404/DSA_JAVA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/throw-404/DSA_JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/throw-404/DSA_JAVA/tree/master/0392-is-subsequence) |
 ## Greedy
@@ -104,4 +106,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/throw-404/DSA_JAVA/tree/master/0836-rectangle-overlap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/throw-404/DSA_JAVA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
