@@ -64,6 +64,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/throw-404/DSA_JAVA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/throw-404/DSA_JAVA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0203-remove-linked-list-elements](https://github.com/throw-404/DSA_JAVA/tree/master/0203-remove-linked-list-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -110,4 +111,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/throw-404/DSA_JAVA/tree/master/0053-maximum-subarray) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/throw-404/DSA_JAVA/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
