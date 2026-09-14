@@ -65,6 +65,7 @@
 | [0061-rotate-list](https://github.com/throw-404/DSA_JAVA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/throw-404/DSA_JAVA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0203-remove-linked-list-elements](https://github.com/throw-404/DSA_JAVA/tree/master/0203-remove-linked-list-elements) |
+| [2487-remove-nodes-from-linked-list](https://github.com/throw-404/DSA_JAVA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,4 +116,13 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/throw-404/DSA_JAVA/tree/master/0203-remove-linked-list-elements) |
+| [2487-remove-nodes-from-linked-list](https://github.com/throw-404/DSA_JAVA/tree/master/2487-remove-nodes-from-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/throw-404/DSA_JAVA/tree/master/2487-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/throw-404/DSA_JAVA/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
