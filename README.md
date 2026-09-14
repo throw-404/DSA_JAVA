@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/throw-404/DSA_JAVA/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/throw-404/DSA_JAVA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/throw-404/DSA_JAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/throw-404/DSA_JAVA/tree/master/0036-valid-sudoku) |
@@ -31,6 +32,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/throw-404/DSA_JAVA/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/throw-404/DSA_JAVA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/throw-404/DSA_JAVA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/throw-404/DSA_JAVA/tree/master/0078-subsets) |
