@@ -37,6 +37,7 @@
 | [0036-valid-sudoku](https://github.com/throw-404/DSA_JAVA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/throw-404/DSA_JAVA/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/throw-404/DSA_JAVA/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/throw-404/DSA_JAVA/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/throw-404/DSA_JAVA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/throw-404/DSA_JAVA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/throw-404/DSA_JAVA/tree/master/0090-subsets-ii) |
@@ -48,6 +49,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/throw-404/DSA_JAVA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/throw-404/DSA_JAVA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/throw-404/DSA_JAVA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/throw-404/DSA_JAVA/tree/master/0229-majority-element-ii) |
@@ -125,4 +127,8 @@
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/throw-404/DSA_JAVA/tree/master/2487-remove-nodes-from-linked-list) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/throw-404/DSA_JAVA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
