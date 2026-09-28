@@ -45,6 +45,7 @@
 | [0152-maximum-product-subarray](https://github.com/throw-404/DSA_JAVA/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/throw-404/DSA_JAVA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/throw-404/DSA_JAVA/tree/master/0229-majority-element-ii) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/throw-404/DSA_JAVA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/throw-404/DSA_JAVA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2678-number-of-senior-citizens](https://github.com/throw-404/DSA_JAVA/tree/master/2678-number-of-senior-citizens) |
 ## Sorting
@@ -84,6 +85,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/throw-404/DSA_JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/throw-404/DSA_JAVA/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/throw-404/DSA_JAVA/tree/master/0392-is-subsequence) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/throw-404/DSA_JAVA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Greedy
 |  |
 | ------- |
