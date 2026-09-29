@@ -45,6 +45,7 @@
 | [0152-maximum-product-subarray](https://github.com/throw-404/DSA_JAVA/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/throw-404/DSA_JAVA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/throw-404/DSA_JAVA/tree/master/0229-majority-element-ii) |
+| [0918-maximum-sum-circular-subarray](https://github.com/throw-404/DSA_JAVA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/throw-404/DSA_JAVA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/throw-404/DSA_JAVA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/throw-404/DSA_JAVA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -86,6 +87,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/throw-404/DSA_JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/throw-404/DSA_JAVA/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/throw-404/DSA_JAVA/tree/master/0392-is-subsequence) |
+| [0918-maximum-sum-circular-subarray](https://github.com/throw-404/DSA_JAVA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/throw-404/DSA_JAVA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/throw-404/DSA_JAVA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Greedy
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/throw-404/DSA_JAVA/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/throw-404/DSA_JAVA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -137,4 +140,12 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/throw-404/DSA_JAVA/tree/master/0056-merge-intervals) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/throw-404/DSA_JAVA/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/throw-404/DSA_JAVA/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
