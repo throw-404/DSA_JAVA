@@ -10,6 +10,7 @@
 | [0036-valid-sudoku](https://github.com/throw-404/DSA_JAVA/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/throw-404/DSA_JAVA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/throw-404/DSA_JAVA/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/throw-404/DSA_JAVA/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0152-maximum-product-subarray](https://github.com/throw-404/DSA_JAVA/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/throw-404/DSA_JAVA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/throw-404/DSA_JAVA/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/throw-404/DSA_JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/throw-404/DSA_JAVA/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/throw-404/DSA_JAVA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/throw-404/DSA_JAVA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -152,5 +154,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/throw-404/DSA_JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/throw-404/DSA_JAVA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
