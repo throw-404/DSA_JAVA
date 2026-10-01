@@ -11,6 +11,7 @@
 | [0217-contains-duplicate](https://github.com/throw-404/DSA_JAVA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/throw-404/DSA_JAVA/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/throw-404/DSA_JAVA/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/throw-404/DSA_JAVA/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/throw-404/DSA_JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/throw-404/DSA_JAVA/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/throw-404/DSA_JAVA/tree/master/0918-maximum-sum-circular-subarray) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/throw-404/DSA_JAVA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/throw-404/DSA_JAVA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/throw-404/DSA_JAVA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/throw-404/DSA_JAVA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -156,4 +158,5 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/throw-404/DSA_JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/throw-404/DSA_JAVA/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/throw-404/DSA_JAVA/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
