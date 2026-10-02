@@ -30,6 +30,7 @@
 | [0043-multiply-strings](https://github.com/throw-404/DSA_JAVA/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/throw-404/DSA_JAVA/tree/master/0065-valid-number) |
 | [0392-is-subsequence](https://github.com/throw-404/DSA_JAVA/tree/master/0392-is-subsequence) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/throw-404/DSA_JAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/throw-404/DSA_JAVA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2678-number-of-senior-citizens](https://github.com/throw-404/DSA_JAVA/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/throw-404/DSA_JAVA/tree/master/3110-score-of-a-string) |
@@ -138,6 +139,7 @@
 ## Stack
 |  |
 | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/throw-404/DSA_JAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/throw-404/DSA_JAVA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
