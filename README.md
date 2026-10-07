@@ -10,6 +10,7 @@
 | [0036-valid-sudoku](https://github.com/throw-404/DSA_JAVA/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/throw-404/DSA_JAVA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/throw-404/DSA_JAVA/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/throw-404/DSA_JAVA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/throw-404/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/throw-404/DSA_JAVA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/throw-404/DSA_JAVA/tree/master/0525-contiguous-array) |
@@ -31,6 +32,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/throw-404/DSA_JAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/throw-404/DSA_JAVA/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/throw-404/DSA_JAVA/tree/master/0065-valid-number) |
+| [0383-ransom-note](https://github.com/throw-404/DSA_JAVA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/throw-404/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/throw-404/DSA_JAVA/tree/master/0392-is-subsequence) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/throw-404/DSA_JAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -75,6 +77,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/throw-404/DSA_JAVA/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/throw-404/DSA_JAVA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/throw-404/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
