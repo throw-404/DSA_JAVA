@@ -16,6 +16,7 @@
 | [0525-contiguous-array](https://github.com/throw-404/DSA_JAVA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/throw-404/DSA_JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/throw-404/DSA_JAVA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/throw-404/DSA_JAVA/tree/master/1189-maximum-number-of-balloons) |
 ## Math
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/throw-404/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/throw-404/DSA_JAVA/tree/master/0392-is-subsequence) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/throw-404/DSA_JAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/throw-404/DSA_JAVA/tree/master/1189-maximum-number-of-balloons) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/throw-404/DSA_JAVA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2678-number-of-senior-citizens](https://github.com/throw-404/DSA_JAVA/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/throw-404/DSA_JAVA/tree/master/3110-score-of-a-string) |
@@ -79,6 +81,7 @@
 | [0229-majority-element-ii](https://github.com/throw-404/DSA_JAVA/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/throw-404/DSA_JAVA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/throw-404/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/throw-404/DSA_JAVA/tree/master/1189-maximum-number-of-balloons) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
