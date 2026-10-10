@@ -65,6 +65,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/throw-404/DSA_JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/throw-404/DSA_JAVA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/throw-404/DSA_JAVA/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/throw-404/DSA_JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/throw-404/DSA_JAVA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/throw-404/DSA_JAVA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/throw-404/DSA_JAVA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -192,4 +193,9 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/throw-404/DSA_JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/throw-404/DSA_JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/throw-404/DSA_JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
