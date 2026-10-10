@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/throw-404/DSA_JAVA/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/throw-404/DSA_JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/throw-404/DSA_JAVA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/throw-404/DSA_JAVA/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/throw-404/DSA_JAVA/tree/master/0053-maximum-subarray) |
@@ -187,4 +188,8 @@
 | [0560-subarray-sum-equals-k](https://github.com/throw-404/DSA_JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/throw-404/DSA_JAVA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/throw-404/DSA_JAVA/tree/master/0974-subarray-sums-divisible-by-k) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/throw-404/DSA_JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
